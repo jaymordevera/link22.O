@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335446470356",
+    "project_id": "link22o-urls",
+    "storage_bucket": "link22o-urls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335446470356:android:10e191487adeac3726d541",
+        "android_client_info": {
+          "package_name": "com.example.link22_o"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335446470356-8qigrd7kd10itn6mt4he0js65vjfmf93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6g_kJCrkRYWAVEOpRtr4gQmLKbBKZZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335446470356-8qigrd7kd10itn6mt4he0js65vjfmf93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
