@@ -42,7 +42,7 @@ Link 22.O was programmed using **Android Studio**. For this reason, it is recomm
 
 2. In **Android Studio**, open the project (***link22_o***).
 
-3. Locate to **main.dart** file using this relative path (***link22.O/lib/main.dart***).
+3. Locate **main.dart** file using this relative path (***link22.O/lib/main.dart***).
 
 4. If it is your first time viewing the file, click on **Get dependecies** in the top-bar and wait for the process to finish.
 
