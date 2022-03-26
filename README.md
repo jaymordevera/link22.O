@@ -38,7 +38,7 @@ The project integrated ***2 Google Technologies*** for the implementation of its
 Link 22.O was programmed using **Android Studio**. For this reason, it is recommended to use Android Studio to view the *source code* of this project as well.
 
 ## Instructions
-1. Clone or download the zip file of this github repository (***https://github.com/jaymordevera/link22.O.git***) to your local device.
+1. Clone or download the zip file of this GitHub repository (***https://github.com/jaymordevera/link22.O.git***) to your local device.
 
 2. In **Android Studio**, open the project (***link22_o***).
 
