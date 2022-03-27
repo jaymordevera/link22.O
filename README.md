@@ -12,6 +12,7 @@ Click the link to go to the section
 - [About the App](#about-the-app)
 - [Source Code Viewing](#source-code-viewing)
 - [Application Viewing](#application-viewing)
+- [Testing the Application](#testing-the-application)
 - [The Team](#the-team)
 - [Project Proposal](#project-proposal)
 ---
@@ -77,6 +78,19 @@ The application is recommended to be viewed by using 2 methods: **Android Emulat
 
 ---
 
+# Testing the Application
+## Instructions
+1. It is presumed that you can already view the application using either of the two recommended method. Otherwise, perform the previous instructions.
+
+2. The main screen of the application is the ***passive feature***. Go to this link ***https://docs.google.com/spreadsheets/d/1M5rQx-0ItbzdOq1JIUhXpIpFZBUmRJ0sQlHAGENAAsw/edit?usp=sharing*** and copy-paste a selected link in the **text field**. The verdict should matched the presumed verdict.
+
+3. You may enter other valid links as well; however, it will have a defeault ***Yellow*** verdict.
+
+4. You may click the sections in the ***bottom navigation bar*** to preview the ***active feauture*** of the application.
+
+5. That's it!
+
+---
 # The Team
 Link 22.O was made possible with the help of the following individuals:
 - Jaymor De Vera, the only member of Team VERAcious
