@@ -45,7 +45,7 @@ Link 22.O was programmed using **Android Studio**. For this reason, it is recomm
 
 3. Locate **main.dart** file using this relative path (***link22.O/lib/main.dart***).
 
-4. If it is your first time viewing the file, click on **Get dependecies** in the top-bar and wait for the process to finish.
+4. If it is your first time viewing the file, click on **Get dependencies** in the top-bar and wait for the process to finish.
 
 5. That's it!
 
@@ -86,9 +86,11 @@ The application is recommended to be viewed by using 2 methods: **Android Emulat
 
 3. You may enter other valid links as well; however, it will have a defeault ***Yellow*** verdict.
 
-4. You may click the sections in the ***bottom navigation bar*** to preview the ***active feauture*** of the application.
+4. If the selected link does not match the preseumed verdict and only displays the default verdict. It recommended to restart the whole process to ensure that **Cloud Firestore** connected properly to the device.
 
-5. That's it!
+5. You may click the sections in the ***bottom navigation bar*** to preview the ***active feauture*** of the application as well.
+
+6. That's it!
 
 ---
 # The Team
