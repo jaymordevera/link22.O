@@ -84,7 +84,7 @@ The application is recommended to be viewed by using 2 methods: **Android Emulat
 
 2. The main screen of the application is the ***passive feature***. Go to this link ***https://docs.google.com/spreadsheets/d/1M5rQx-0ItbzdOq1JIUhXpIpFZBUmRJ0sQlHAGENAAsw/edit?usp=sharing*** and copy-paste a selected link in the **text field**. The verdict should matched the presumed verdict.
 
-3. You may enter other valid links as well; however, it will have a defeault ***Yellow*** verdict.
+3. You may enter other valid links as well; however, it will have a default ***Yellow*** verdict.
 
 4. If the selected link does not match the preseumed verdict and only displays the default verdict. It recommended to restart the whole process to ensure that **Cloud Firestore** connected properly to the device.
 
